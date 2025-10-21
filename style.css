@@ -14,12 +14,11 @@ body {
   box-shadow: 0 4px 12px rgba(0,0,0,0.1); /* efek bayangan */
 }
 
-.kartu-profil img {
+img {
   width: 150px;
   height: 150px;
   border-radius: 50%; /* jadi bulet! */
   object-fit: cover;
   border: 4px solid #0078d7;
   margin-bottom: 15px;
-
 }

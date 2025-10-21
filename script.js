@@ -7,7 +7,7 @@ alert('kasooonnnnnnnnn');
 document.getElementById("Wanbutton").addEventListener("click", explodePhoto);
 
 function explodePhoto() {
-  const photo = document.getElementById("photo");
+  const photo = document.getElementById("DIVING.jpg");
   const stickerContainer = document.getElementById("stickerContainer");
 
   // Ambil posisi foto

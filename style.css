@@ -9,12 +9,12 @@ body {
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
   padding: 20px;
   background-color: white;
-  border-radius: 15px; /* membuat sudut menjadi melengkung */
+  border-radius: 30px; /* membuat sudut menjadi melengkung */
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* efek bayangan */
   text-align: center;
 }
 
 .kartu-profil img {
-  width: 150px;
-  border-radius: 50%; /* jadi bulet! */
+  width: 200px;
+  border-radius: 70%; /* jadi bulet! */
 }
